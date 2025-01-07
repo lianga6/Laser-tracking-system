@@ -3,10 +3,7 @@
 ## 展示
 
   [点我观看演示视频](https://github.com/lianga6/Laser-tracking-system/issues/1#issue-2771810727)
-<video controls>
-  <source src="https://github.com/lianga6/Laser-tracking-system/issues/1#issue-2771810727" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
   
 ## 背景
 该项目是2024年全国大学生电子设计大赛的比赛项目，这一部分主要是我来完成的。
