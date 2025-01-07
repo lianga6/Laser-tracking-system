@@ -1,7 +1,8 @@
 # 激光追踪系统
 
 ## 展示
-  [error](https://github.com/lianga6/Laser-tracking-system/issues/1#issue-2771810727 "点我观看演示视频")
+
+  [点我观看演示视频](https://github.com/lianga6/Laser-tracking-system/issues/1#issue-2771810727)
   若卡顿则打开视频链接：https://github.com/lianga6/Laser-tracking-system/issues/1#issue-2771810727
   
 ## 背景
