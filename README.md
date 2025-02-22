@@ -3,7 +3,7 @@
 ## 展示
 
 
-  [点我观看演示视频](https://github.com/lianga6/Laser-tracking-system/issues/1#issue-2771810727)
+  [点我观看演示视频](https://github.com/user-attachments/assets/fbc9f192-93cd-4fd4-963c-66c19c92c18f)
 
   
 ## 介绍
